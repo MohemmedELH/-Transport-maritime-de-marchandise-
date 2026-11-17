@@ -79,10 +79,15 @@ Elle contient notamment les informations suivantes :
 Les analyses sont organisées autour de plusieurs axes :
 
 1. **Vue générale du trafic maritime** : indicateurs clés et répartition du tonnage.
-2. 
+2. <img width="472" height="314" alt="image" src="https://github.com/user-attachments/assets/c6013e84-353a-4d9f-9327-b9c4928f9f26" />
+
 3. **Analyse géographique** : comparaison des ports, régions et façades maritimes.
-4. **Évolution du trafic** : évolution annuelle, comparaison des entrées et sorties, variations en pourcentage.
-5. **Nature des marchandises** : analyse des vracs liquides, vracs solides, conteneurs et trafic roulier.
+4. <img width="466" height="296" alt="image" src="https://github.com/user-attachments/assets/a0b470c0-d22c-4760-93bb-ca96f238319e" />
+
+5. **Évolution du trafic** : évolution annuelle, comparaison des entrées et sorties, variations en pourcentage.
+6. <img width="429" height="280" alt="image" src="https://github.com/user-attachments/assets/d9be6784-f154-4b3e-a333-5d07f5de3d39" />
+
+7. **Nature des marchandises** : analyse des vracs liquides, vracs solides, conteneurs et trafic roulier.
 
 ## Indicateurs clés
 
