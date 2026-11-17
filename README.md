@@ -62,6 +62,8 @@ Elle contient notamment les informations suivantes :
 - Vérification de la structure et des colonnes.
 - Contrôle des valeurs manquantes.
 - Préparation des données pour leur exploitation.
+- <img width="680" height="459" alt="image" src="https://github.com/user-attachments/assets/6323d328-80b4-418c-a8ef-3d62df4439f2" />
+
 
 ### 2. Stockage dans MySQL
 - Création de la base `transport_maritme_db`.
