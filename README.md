@@ -62,13 +62,14 @@ Elle contient notamment les informations suivantes :
 - Vérification de la structure et des colonnes.
 - Contrôle des valeurs manquantes.
 - Préparation des données pour leur exploitation.
-- <img width="680" height="459" alt="image" src="https://github.com/user-attachments/assets/6323d328-80b4-418c-a8ef-3d62df4439f2" />
+
 
 
 ### 2. Stockage dans MySQL
 - Création de la base `transport_maritme_db`.
 - Importation des données dans la table `trafic_ports`.
 - Vérification de la cohérence des données.
+- <img width="680" height="459" alt="image" src="https://github.com/user-attachments/assets/6323d328-80b4-418c-a8ef-3d62df4439f2" />
 
 ### 3. Analyse et visualisation avec Power BI
 - Connexion à la base de données.
